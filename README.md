@@ -16,8 +16,8 @@ Municipalities/Gemeinden:
 
 Counties/Bezirke:
 * bezirke_normal: counties, normal (99% simplified) 
-* bezirke_moved: counties, normal, with Vienna as extra element
-* bezirke_hex: counties, normal, as hex-tiles
+* bezirke_moved: counties, normal, Vienna as extra element
+* bezirke_hex: counties, normal, hex-tiles, Vienna as extra element
 * bezirke_def: counties, deformed
 * bezirke_hexdef: counties, deformed, as hex-tiles
 
