@@ -33,3 +33,6 @@ States/Bundesländer:
 * bundeslaender_def: states, deformed
 * bundeslaender_hex: states, normal, as hex-tiles
 * bundeslaender_hexdef: states, deformed, as hex-tiles
+
+
+CC BY 4.0, Flooh Perlot (https://creativecommons.org/licenses/by/4.0/); original file: CC BY 3.0 Geoland Kärnten 
