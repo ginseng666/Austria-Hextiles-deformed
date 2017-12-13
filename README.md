@@ -1,6 +1,6 @@
 # Austria-Hextiles-deformed
 
-Several TopoJSON-files for Austria, including municipalities, counties and states as hex-tiles and deformed - and now also electoral districts (which includes a GeoJSON as well). For a demo see [http://drawingdata.net/colormaps](http://drawingdata.net/colormaps) and [http://vis.strategieanalysen.at/mandate](http://vis.strategieanalysen.at/mandate) for the electoral districts.
+Several TopoJSON-files for Austria, including municipalities, counties and states as hex-tiles and deformed - and now also electoral districts (which includes a GeoJSON as well). For a demo see [https://drawingdata.net/colormaps](https://drawingdata.net/colormaps) and [http://vis.strategieanalysen.at/mandate](http://vis.strategieanalysen.at/mandate) for the electoral districts.
 
 All deformations are based on the number of eligible voters 2016, the electoral districts on the data for the federal election 2017.
 
